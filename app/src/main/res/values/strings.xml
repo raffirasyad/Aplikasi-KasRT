@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CobaFirebase</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notification">Notification</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="nomor_hp">Nomor Hp</string>
+    <string name="alamat">Alamat</string>
+    <string name="iuran_individu">Iuran Individu</string>
+    <string name="total_iuran_semua_warga">Total Iuran Semua Warga</string>
+    <string name="desc_pemanfataan_iuran">Desc Pemanfataan Iuran</string>
+    <string name="total_pengeluaran_iuran">Total Pengeluaran Iuran</string>
+    <string name="information">Information</string>
+</resources>

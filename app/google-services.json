@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "831425964187",
+    "firebase_url": "https://testfirebase-b0fe1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testfirebase-b0fe1",
+    "storage_bucket": "testfirebase-b0fe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831425964187:android:7c2f69fe8c214836027e3e",
+        "android_client_info": {
+          "package_name": "com.example.cobafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqGXgvWnMXzgwisfJZHuXkjSS30-DEBbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831425964187:android:0bbbf0d34739a048027e3e",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqGXgvWnMXzgwisfJZHuXkjSS30-DEBbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
